@@ -1,4 +1,4 @@
-[10:04 AM, 3/16/2022] Spoorthi Reva: #include<stdio.h>
+#include<stdio.h>
 int input_number()
 {
   int n;
